@@ -17,7 +17,7 @@
 **AI, Machine Learning, Deep Learning, Computer Vision, Generative AI**
 
 ### 💬 Ask me about
-**Python, C++, AI Projects, Robotics, Automation**
+**Python, AI Projects**
 
 ### 📫 How to reach me
 **Email:** [suyedmuhummadmaaz@gmail.com](mailto:suyedmuhummadmaaz@gmail.com)  
