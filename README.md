@@ -1,7 +1,5 @@
-Make it consce
-
 <h1 align="center">Hi 👋, I'm Syed Maaz</h1>
-<h3 align="center">AI Engineer | Generative AI, RAG & AI Agents | Building Real-World AI Systems</h3>
+<h3 align="center">AI Engineer | Generative AI, RAG & AI Agents</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syedmaaz25&label=Profile%20views&color=0e75b6&style=flat" />
@@ -9,109 +7,47 @@ Make it consce
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am an **AI Engineer** focused on building **real-world Generative AI systems** that solve practical problems.
+AI Engineer building **real-world Generative AI systems**.
 
-I started my journey in **web development (HTML, CSS, JavaScript, WordPress, React basics)** and gradually transitioned into **Machine Learning and Artificial Intelligence**, where I now specialize in:
+Focused on:
+- 🤖 AI Agents & LLM systems  
+- 📄 RAG (chat with docs, PDFs, video)  
+- ⚙️ End-to-end AI products (API → deployment)
 
-- 🤖 Generative AI applications
-- 📄 Retrieval-Augmented Generation (RAG) systems
-- 🧠 AI Agents & LLM orchestration
-- ⚙️ End-to-end AI product development
-
-I don’t just build models. I build **working AI systems with real use cases, APIs, and deployments**.
-
-Currently seeking **remote AI internships or entry-level AI Engineer roles** where I can contribute to production-grade AI systems and grow with experienced teams.
+Seeking **remote AI internships / junior roles**.
 
 ---
 
-## 🧠 What I Build
+## 🧠 Projects
 
-- 📄 RAG systems (chat with PDFs, documents, and knowledge bases)
-- 🎥 Video intelligence systems using Whisper + embeddings + FAISS
-- 🤖 AI Agents using LangChain / tool-based reasoning
-- ⚙️ LLM-powered automation workflows
-- 🌐 Full-stack AI applications (Flask + modern UI)
+- **AI Video RAG** — Whisper + FAISS + timestamp Q&A  
+- **Nexus RAG** — Chat with PDFs (production deployed)  
+- **Orbis AI** — Custom AI personas with memory  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-### AI / ML
-- OpenAI API
-- Hugging Face Transformers
-- LangChain
-- FAISS / Vector Databases
-- Whisper AI
-- Scikit-learn
-
-### Development
-- Python
-- Flask
-- FastAPI
-- JavaScript (integration level)
-
-### Data / ML Tools
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebooks
-
-### Deployment
-- Linux VPS
-- Nginx
-- Gunicorn
+**AI:** OpenAI, HuggingFace, LangChain, FAISS, Whisper  
+**Backend:** Python, Flask, FastAPI  
+**Data:** Pandas, NumPy  
+**Deploy:** Linux, Nginx, Gunicorn  
 
 ---
 
-## 📌 Featured Projects
+## 💼 Experience
 
-### 🔹 AI Video Intelligence System (RAG)
-- Upload videos → extract audio → transcribe (Whisper)
-- Chunk + embed content using FAISS
-- Ask questions with timestamp-based answers
-- Jump directly to relevant video moments
+- **AI Developer (Upwork)** — RAG, chatbots, LLM systems  
+- Frontend / WordPress Dev  
 
 ---
 
-### 🔹 Nexus RAG System
-- Chat with PDFs using LLMs
-- Semantic chunking + vector retrieval
-- Production-style VPS deployment (Nginx + Gunicorn)
+## 📫 Contact
 
----
-
-### 🔹 Orbis AI (Persona Lab)
-- Custom AI personalities with memory
-- LangChain-based conversational system
-- Role-based AI behavior engine
-
----
-
-## 📈 Experience
-
-- **Generative AI Developer (Upwork)**  
-  Built RAG systems, AI chatbots, document intelligence tools, and LLM pipelines using OpenAI, LangChain, and Hugging Face.
-
-- WordPress / Shopify Developer  
-- React / Frontend Developer (Internship)
-
----
-
-## 🎯 Current Focus
-
-- Advanced RAG architectures
-- Multi-agent AI systems
-- Production AI deployment pipelines
-- AI + Robotics integration (long-term vision)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/SyedMaaz25
-- LinkedIn: https://www.linkedin.com/in/syed-maaz-ml/
-- Email: suyedmuhummadmaaz@gmail.com
+- GitHub: github.com/SyedMaaz25  
+- LinkedIn: linkedin.com/in/syed-maaz-ml  
+- Email: suyedmuhummadmaaz@gmail.com  
 
 ---
