@@ -18,7 +18,7 @@ I started my journey in **web development (HTML, CSS, JavaScript, WordPress, Rea
 - 🧠 AI Agents & LLM orchestration
 - ⚙️ End-to-end AI product development
 
-I don’t just build models — I build **working AI systems with real use cases, APIs, and deployments**.
+I don’t just build models. I build **working AI systems with real use cases, APIs, and deployments**.
 
 Currently seeking **remote AI internships or entry-level AI Engineer roles** where I can contribute to production-grade AI systems and grow with experienced teams.
 
@@ -47,7 +47,7 @@ Currently seeking **remote AI internships or entry-level AI Engineer roles** whe
 ### Development
 - Python
 - Flask
-- FastAPI (learning)
+- FastAPI
 - JavaScript (integration level)
 
 ### Data / ML Tools
@@ -109,9 +109,7 @@ Currently seeking **remote AI internships or entry-level AI Engineer roles** whe
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/SyedMaaz25
-- LinkedIn: (add your link here)
-- Email: (add your email)
+- LinkedIn: https://www.linkedin.com/in/syed-maaz-ml/
+- Email: suyedmuhummadmaaz@gmail.com
 
 ---
-
-⚡ *“Start while you're confused — that's where real learning happens.”*
