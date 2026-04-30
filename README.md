@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am an **AI Engineer** focused on building **real-world Generative AI systems** that solve practical problems.
 
