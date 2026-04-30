@@ -1,53 +1,108 @@
 <h1 align="center">Hi 👋, I'm Syed Maaz</h1>
-<h3 align="center">A passionate AI & Robotics enthusiast from Pakistan</h3>
+<h3 align="center">AI Engineer | Generative AI, RAG & AI Agents | Building Real-World AI Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=syedmaaz25" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedmaaz25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=syedmaaz25&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🌱 I’m currently learning
-**AI, Machine Learning, Deep Learning, Computer Vision, Generative AI**
+## 🚀 About Me
 
-### 💬 Ask me about
-**Python, AI Projects**
+I am an AI Engineer focused on building **practical Generative AI systems** that solve real-world problems.
 
-### 📫 How to reach me
-**Email:** [suyedmuhummadmaaz@gmail.com](mailto:suyedmuhummadmaaz@gmail.com)  
-**LinkedIn:** [Syed Maaz](https://linkedin.com/in/syed-maaz-ml)  
-**Instagram:** [syed.__maaz](https://instagram.com/syed.__maaz)
+I started my journey with web development (HTML, CSS, JavaScript, WordPress), and gradually transitioned into **Machine Learning and Artificial Intelligence**, where I now specialize in:
 
-### ⚡ Fun fact
-I aim to **build humanoid robots** that can assist in daily life 🤖
+- Generative AI applications
+- Retrieval-Augmented Generation (RAG) systems
+- AI Agents & LLM orchestration
+- End-to-end AI product development
 
----
+I enjoy turning ideas into **working AI systems**, not just notebooks or experiments.
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-</p>
+Currently seeking **remote AI internships or entry-level AI Engineer roles** where I can contribute to real production systems and grow with experienced teams.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmaaz25&show_icons=true&locale=en" alt="Syed Maaz Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaaz25&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 🧠 What I Build
 
-### 🔥 Streak Stats
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaaz25&" alt="GitHub Streak" />
-</p>
+- 📄 RAG-based document intelligence systems (chat with PDFs, knowledge bases)
+- 🎥 Video understanding systems using Whisper + embeddings + FAISS
+- 🤖 AI Agents using LangChain / tool-based reasoning
+- ⚙️ LLM-powered automation workflows
+- 🧩 Full-stack AI apps (Flask + modern UI)
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML**
+- OpenAI API
+- Hugging Face Transformers
+- LangChain
+- FAISS / Vector Databases
+- Whisper AI
+- Scikit-learn
+
+**Development**
+- Python
+- Flask
+- FastAPI (learning / upcoming)
+- JavaScript (basic frontend integration)
+
+**Data / ML Tools**
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebooks
+
+**Deployment**
+- Linux VPS
+- Nginx
+- Gunicorn
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Video Intelligence System (RAG)
+- Upload videos → extract audio → transcribe (Whisper)
+- Convert into embeddings (FAISS + HuggingFace)
+- Ask questions over video content with timestamp-based answers
+
+### 🔹 Nexus RAG System
+- Chat with PDFs using LLM + embeddings
+- Semantic chunking + retrieval pipeline
+- Deployed on VPS with production setup
+
+### 🔹 Orbis AI (Persona Lab)
+- Custom AI personalities with memory
+- LangChain-based conversational agents
+- Role-based LLM behavior system
+
+---
+
+## 📈 Focus Areas (2026)
+
+- Advanced RAG architectures
+- Multi-agent AI systems
+- Production-grade AI deployment
+- Robotics + AI integration (long-term goal)
+
+---
+
+## 🎯 Goal
+
+To build **intelligent systems that can operate in real-world environments**, eventually combining AI + robotics to create practical autonomous assistants.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/SyedMaaz25
+- LinkedIn: (add your link)
+- Email: (add email)
+
+---
+
+⚡ *“Start while you're confused — that's where real learning happens.”*
