@@ -9,34 +9,34 @@
 
 ## 🚀 About Me
 
-I am an AI Engineer focused on building **practical Generative AI systems** that solve real-world problems.
+I am an **AI Engineer** focused on building **real-world Generative AI systems** that solve practical problems.
 
-I started my journey with web development (HTML, CSS, JavaScript, WordPress), and gradually transitioned into **Machine Learning and Artificial Intelligence**, where I now specialize in:
+I started my journey in **web development (HTML, CSS, JavaScript, WordPress, React basics)** and gradually transitioned into **Machine Learning and Artificial Intelligence**, where I now specialize in:
 
-- Generative AI applications
-- Retrieval-Augmented Generation (RAG) systems
-- AI Agents & LLM orchestration
-- End-to-end AI product development
+- 🤖 Generative AI applications
+- 📄 Retrieval-Augmented Generation (RAG) systems
+- 🧠 AI Agents & LLM orchestration
+- ⚙️ End-to-end AI product development
 
-I enjoy turning ideas into **working AI systems**, not just notebooks or experiments.
+I don’t just build models — I build **working AI systems with real use cases, APIs, and deployments**.
 
-Currently seeking **remote AI internships or entry-level AI Engineer roles** where I can contribute to real production systems and grow with experienced teams.
+Currently seeking **remote AI internships or entry-level AI Engineer roles** where I can contribute to production-grade AI systems and grow with experienced teams.
 
 ---
 
 ## 🧠 What I Build
 
-- 📄 RAG-based document intelligence systems (chat with PDFs, knowledge bases)
-- 🎥 Video understanding systems using Whisper + embeddings + FAISS
+- 📄 RAG systems (chat with PDFs, documents, and knowledge bases)
+- 🎥 Video intelligence systems using Whisper + embeddings + FAISS
 - 🤖 AI Agents using LangChain / tool-based reasoning
 - ⚙️ LLM-powered automation workflows
-- 🧩 Full-stack AI apps (Flask + modern UI)
+- 🌐 Full-stack AI applications (Flask + modern UI)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
+### AI / ML
 - OpenAI API
 - Hugging Face Transformers
 - LangChain
@@ -44,19 +44,19 @@ Currently seeking **remote AI internships or entry-level AI Engineer roles** whe
 - Whisper AI
 - Scikit-learn
 
-**Development**
+### Development
 - Python
 - Flask
-- FastAPI (learning / upcoming)
-- JavaScript (basic frontend integration)
+- FastAPI (learning)
+- JavaScript (integration level)
 
-**Data / ML Tools**
+### Data / ML Tools
 - Pandas
 - NumPy
 - Matplotlib
 - Jupyter Notebooks
 
-**Deployment**
+### Deployment
 - Linux VPS
 - Nginx
 - Gunicorn
@@ -67,41 +67,50 @@ Currently seeking **remote AI internships or entry-level AI Engineer roles** whe
 
 ### 🔹 AI Video Intelligence System (RAG)
 - Upload videos → extract audio → transcribe (Whisper)
-- Convert into embeddings (FAISS + HuggingFace)
-- Ask questions over video content with timestamp-based answers
+- Chunk + embed content using FAISS
+- Ask questions with timestamp-based answers
+- Jump directly to relevant video moments
+
+---
 
 ### 🔹 Nexus RAG System
-- Chat with PDFs using LLM + embeddings
-- Semantic chunking + retrieval pipeline
-- Deployed on VPS with production setup
+- Chat with PDFs using LLMs
+- Semantic chunking + vector retrieval
+- Production-style VPS deployment (Nginx + Gunicorn)
+
+---
 
 ### 🔹 Orbis AI (Persona Lab)
 - Custom AI personalities with memory
-- LangChain-based conversational agents
-- Role-based LLM behavior system
+- LangChain-based conversational system
+- Role-based AI behavior engine
 
 ---
 
-## 📈 Focus Areas (2026)
+## 📈 Experience
+
+- **Generative AI Developer (Upwork)**  
+  Built RAG systems, AI chatbots, document intelligence tools, and LLM pipelines using OpenAI, LangChain, and Hugging Face.
+
+- WordPress / Shopify Developer  
+- React / Frontend Developer (Internship)
+
+---
+
+## 🎯 Current Focus
 
 - Advanced RAG architectures
 - Multi-agent AI systems
-- Production-grade AI deployment
-- Robotics + AI integration (long-term goal)
-
----
-
-## 🎯 Goal
-
-To build **intelligent systems that can operate in real-world environments**, eventually combining AI + robotics to create practical autonomous assistants.
+- Production AI deployment pipelines
+- AI + Robotics integration (long-term vision)
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/SyedMaaz25
-- LinkedIn: (add your link)
-- Email: (add email)
+- LinkedIn: (add your link here)
+- Email: (add your email)
 
 ---
 
