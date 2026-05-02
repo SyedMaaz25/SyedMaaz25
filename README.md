@@ -1,4 +1,3 @@
-<h1 align="center">Syed Maaz</h1>
 <h3 align="center">AI Engineer | Generative AI • RAG • AI Agents</h3>
 
 <p align="center">
