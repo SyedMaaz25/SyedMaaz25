@@ -1,12 +1,12 @@
 <h3 align="center">AI Engineer | Generative AI • RAG • AI Agents</h3>
 
 <p align="center">
-Building real-world AI systems that actually work 🚀
+Building real-world AI systems that actually work 
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m an AI Engineer focused on building production-ready applications using Generative AI, LLMs, and Agentic workflows.
 
