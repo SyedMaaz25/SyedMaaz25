@@ -12,7 +12,7 @@ I’m an AI Engineer focused on building production-ready applications using Gen
 
 * 🔭 Currently working on: **AI Agents & RAG Systems**
 * 🧠 Focus: **LangChain, LangGraph, LLM APIs, Automation**
-* ⚡ I build: **Chatbots, Document AI, Video Intelligence Systems**
+* ⚡ I build: **AI chatbots, document AI systems, RAG pipelines, and AI agents**
 * 🌍 Goal: Work on **global AI products & remote opportunities**
 * 🤖 Long-term: Combining **AI + Robotics** to build real-world intelligent systems
 
